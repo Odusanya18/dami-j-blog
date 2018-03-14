@@ -1,0 +1,24 @@
+{
+  "name": "dami-j-blog",
+  "version": "0.0.1",
+  "description": "A simple polymer blog with a Golang Backend =()=> {var web-3-0;}\u001b[D\u001b[D\u001b[\u001b[D\u001b[C\u001b[C\u001b[C",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Odusanya18/dami-j-blog.git"
+  },
+  "keywords": [
+    "golang",
+    "polymer",
+    "appengine"
+  ],
+  "author": "Odusanya Victor .O",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Odusanya18/dami-j-blog/issues"
+  },
+  "homepage": "https://github.com/Odusanya18/dami-j-blog#readme"
+}
